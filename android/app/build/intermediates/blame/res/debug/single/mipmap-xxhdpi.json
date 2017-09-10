@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\kbodnar\\Desktop\\react-native-android-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\kbodnar\\Desktop\\react-native-android-app\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\kbodnar\\Desktop\\react-native-apps\\Practice01SplashScreen\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\kbodnar\\Desktop\\react-native-apps\\Practice01SplashScreen\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
